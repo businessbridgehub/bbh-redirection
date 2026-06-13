@@ -72,6 +72,7 @@ If this plugin helps improve your workflow or maintain your website's SEO, consi
 
 ☕ [![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://www.buymeacoffee.com/jahidshah/)
 
+
 **Your support helps fund:**
 
 * WordPress compatibility testing
@@ -89,7 +90,10 @@ Part of the **Business Bridge Hub** ecosystem:
   https://github.com/businessbridgehub/bbh-lite  
 
 - BBH Custom Schema  
-  https://github.com/MdJahidShah/bbh-custom-schema  
+  https://github.com/MdJahidShah/bbh-custom-schema
+  
+  - BBH Security Insight
+https://github.com/businessbridgehub/bbh-security-insight
 
 - Additional tools and frameworks available at:
   https://businessbridgehub.com/products/
