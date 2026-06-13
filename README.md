@@ -93,7 +93,7 @@ Part of the **Business Bridge Hub** ecosystem:
   https://github.com/MdJahidShah/bbh-custom-schema/
   
 - BBH Security Insight
-https://github.com/businessbridgehub/bbh-security-insight/
+  https://github.com/businessbridgehub/bbh-security-insight/
 
 - Additional tools and frameworks available at:
   https://businessbridgehub.com/products/
