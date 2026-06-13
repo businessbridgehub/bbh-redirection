@@ -87,13 +87,13 @@ If this plugin helps improve your workflow or maintain your website's SEO, consi
 Part of the **Business Bridge Hub** ecosystem:
 
 - BBH Lite Theme  
-  https://github.com/businessbridgehub/bbh-lite  
+  https://github.com/businessbridgehub/bbh-lite/
 
 - BBH Custom Schema  
-  https://github.com/MdJahidShah/bbh-custom-schema
+  https://github.com/MdJahidShah/bbh-custom-schema/
   
-  - BBH Security Insight
-https://github.com/businessbridgehub/bbh-security-insight
+- BBH Security Insight
+https://github.com/businessbridgehub/bbh-security-insight/
 
 - Additional tools and frameworks available at:
   https://businessbridgehub.com/products/
