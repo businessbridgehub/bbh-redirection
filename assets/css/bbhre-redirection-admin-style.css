@@ -1,0 +1,399 @@
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+    padding-bottom: 5px;
+}
+.bbhredh-wrap {
+    width: 99.5%;
+    overflow: hidden;
+}
+.bbhred-addnew, .bbhred-edit, .bbhred-list {
+    margin: 5px 1px 3px !important;
+    padding: 10px 15px !important;
+    border: 1px solid #c3c4c7;
+    background: #fff;
+    color: #000;
+}
+h2.bbhred-htitle {
+    background: #ccc;
+    margin: 0;
+    padding: 10px 10px;
+}
+.setting-sec, .logdatatable {
+    padding: 10px 10px;
+    background: #fff;
+    margin-bottom: 10px;
+}
+p.bbhred-subtitle{
+    font-size: 1.2rem;
+    margin: 5px 0 15px 0;
+}
+.bbhred-notices {
+    background: #fff;
+    border: 1px solid #c3c4c7;
+}
+.admin-bbhredhrow {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: larger;
+}
+.admin-bbhredhrow h2 {
+    border-bottom: 1px solid #c3c4c7;
+}
+.bbgredreportpagehead {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+    margin: 0 1px;
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
+.bbgredreportpagehead h1 {
+    font-size: 2rem;
+    line-height: 50px;
+    margin: 0;
+    color: #fff !important;
+}
+.bbh-redirection-content ol, .bbh-redirection-content ul {
+    font-size: 15px !important;
+    line-height: 25px !important;
+}
+
+.bbh-redirection-content ul li {
+    list-style-type: disc;
+    margin-left: 2em;
+}
+p.bbhre-postbox {
+    font-size: 15px !important;
+    padding-top: 10px !important;
+}
+.bbhredpostbox {
+    padding: 20px !important;
+    margin-bottom: 20px !important;
+}
+th.enable-setting-text {
+    background: linear-gradient(135deg, #2c3338 0%, #50575e 100%) !important;
+    color: #fff !important;
+}
+th.enable-setting-text p.description{
+    color: #fff !important;
+}
+.reportpagehead h1 {
+    font-size: 1.9rem;
+    line-height: 50px;
+    margin: 0;
+    color: #fff !important;
+}
+.bbhredh_common{
+    width: 49%;
+    background: #fff;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.bbhredh_common p,.bbhredh_common li{
+    font-size: 1rem;
+    line-height: 30px;
+}
+.bbhredh_common h3 {
+    font-size: 1rem;
+    text-align: left;
+    padding: 6px 0 10px 0;
+    width: 100%;
+}
+.bbhredh_common h5 {
+    font-size: 1rem;
+}
+.bbh-redirection-full-page {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.bbh-redirection-content {
+    flex: 3;
+}
+.bbh-redirection-sidebar {
+    flex: 1;
+}
+.col-bbhredh_sidebar_area p {
+    padding:3px 10px;
+}
+.bbhredh-bbhredhrow p{
+    font-size: medium;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+}
+.bbhredh-bbhredhrow li {
+    font-size: larger;
+    padding: 5px 0;
+    line-height: 30px;
+}
+img.auth-img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+a.bbhredhyt-btn {
+    padding: 15px;
+    background: red;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: larger;
+}
+a.bbhredhyt-btn:hover {
+    padding: 15px;
+    background: rgb(196, 48, 48);
+}
+h1.bbhredhhead {
+    line-height: 50px;
+    padding: 0;
+}
+.bbhredh-author-box {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.plugin-author-img {
+    width: 120px;
+    height: 145px;
+    background-image: url('../img/author.png'); /* Adjusted relative path */
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin:0 auto 15px auto;
+}
+.buyme-author-img {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+.notice.notice-error:has(a[href*="silentguard-scanner"]) {display: none !important;}
+.notice, div.error, div.updated { margin: 5px 1px 3px !important;}
+.wrap.bbhsettingpagewrapper {
+    margin: 10px 2px 0 2px;
+}
+.form-table td {padding: 15px 0px !important;}
+.widefat thead tr th {
+    font-weight: 700;
+    padding: 15px 5px;
+}
+.buyme-author-img:hover{border:1px solid #732b81}
+p.bbh-bmc-btn a {
+    text-decoration: none;
+    color: #000;
+}
+p.bbh-bmc-btn a {
+    /* Layout & Sizing */
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 25px;
+    
+    /* Colors */
+    background-color: #FFDD00; /* The signature yellow */
+    color: #000000;
+    
+    /* Border & Shape */
+    border: none;
+    border-radius: 12px; /* Smooth rounded corners */
+    
+    /* Typography */
+    text-decoration: none;
+    font-family: 'Cookie', cursive;
+    font-size: 20px;
+    font-weight: normal;
+    
+    /* Interaction */
+    transition: 0.3s;
+    cursor: pointer;
+    margin-top: 5px;
+  }
+
+  p.bbh-bmc-btn a::before {
+    content: '🥛';
+    margin-right: 10px;
+
+  }
+  p.bbh-bmc-btn a:hover {
+    opacity: 0.85;
+    transform: scale(1.02);
+  }
+/*---------------------------------------------------
+            Report Page CSS Start
+---------------------------------------------------*/
+.wrap.reportpagehead {
+    margin: 5px 2px !important;
+    padding: 5px;
+}
+.wrap.reportpagehead h1 {
+    font-weight: 700;
+}
+.wrap.reportpagehead p {
+    font-size: 1rem;
+    margin:5px 0 15px 0;
+}
+.ppwshead, .ppwoshead {
+    padding: 1px 10px;
+    margin: 10px 0px 0 0px;
+}
+.ppwoshead {
+    background-color: rgb(112, 4, 4);
+}
+.ppwoshead h2 {
+    color: #fff;
+    padding: 8px 5px;
+    border-bottom: none !important;
+}
+.ppwshead {
+    background-color: rgb(4, 112, 4);
+}
+.ppwshead h2 {
+    color: #fff;
+    padding: 8px 5px;
+    border-bottom: none !important;
+}
+.tablenav.table-flex {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+    border: 1px solid #c3c4c7;
+    box-shadow: 1px 1px 1px #c3c4c7;
+    margin: 0 0 20px 0;
+    padding: 10px 0;
+}
+a.page-numbers, span.page-numbers.current {
+    padding: 5px 10px;
+    color: #000;
+    text-decoration: none;
+    font-size: 13px;
+    border: 1px solid #c3c4c7;
+    border-radius: 5px;
+}
+span.page-numbers.current{
+    background-color: #c3c4c7;
+    border-radius: 5px;
+}
+.tablenav .tablenav-pages {
+    margin: 0 0 2px !important;
+}
+a.page-numbers:hover {
+    background: #c3c4c7;
+    border-radius: 5px;
+    transition: 1s;
+}
+pre code {
+    display: block;
+    padding-left: 0;
+    margin: 0;
+    white-space: pre-wrap;
+}
+.bbhcusschema-leftsidebar {
+    width: 100%;
+}
+.bbhcusschema-leftsidebar h5 {
+    padding: 5px 0px;
+}
+.bbhcusschema-leftsidebar ul {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-start;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+.bbhcusschema-leftsidebar ul li {
+    list-style-type: disc;
+    padding: 0px !important;
+    margin-bottom: 0 !important;
+}
+h2#bbhred-title {
+    margin: 0 0 5px 0 !important;
+    border-bottom: 1px solid #ccc;
+}
+span.dashicons.dashicons-yes {
+    color: rgb(4, 112, 4);
+    font-weight: 700;
+}
+table.widefat tbody tr td {
+    border-bottom: 0.1px solid #ccc;
+    align-items: center;
+    align-content: center;
+}
+table.widefat tbody tr td input {
+    margin-left: 8px;
+}
+/*---------------------------------------------------
+            Report Page CSS End
+---------------------------------------------------*/
+
+/*---------------------------------------------------
+            Setting Page CSS Srart
+---------------------------------------------------*/
+.wrap.bbhcuschma-settings-page h1 {
+    font-weight: 700 !important;
+}
+.wrap.bbhcuschma-settings-page h1,th.enable-setting-text, p.subheadingp {
+    padding:0 10px !important;
+}
+/*---------------------------------------------------
+            Setting Page CSS End
+---------------------------------------------------*/
+
+/*--------------------------------------------------
+            Inside Editor CSS Start
+----------------------------------------------------*/
+.impnote{
+    margin:0 0 8px 0;
+    font-size:13px;
+    color:#020202;
+}
+.impnote strong{
+    color:#b90b0b;
+}
+/*--------------------------------------------------
+            Inside Editor CSS End
+---------------------------------------------------*/
+
+/*--------------------------------------------------
+                    Responsive Css
+---------------------------------------------------*/
+@media screen and (max-width: 782px) {
+    .bbh-redirection-full-page {
+        flex-direction: column;
+    }
+    .bbh-redirection-content, .bbh-redirection-sidebar {
+        flex: 100%;
+    }
+}
+@media screen and (max-width: 650px) {
+    .bbhredh-wrap {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+    }
+    h1.bbhredhhead {
+        text-align: center;
+    }
+    .admin-bbhredhrow {
+        flex-direction: column;
+        align-items: center;
+    }
+    .bbhredh_common {
+        width: 90%;
+    }
+    .col-bbhredh-paragraph.bbhredh_common {
+        width: 86%;
+    }
+    .col-bbhredh_sidebar_area.bbhredh_common {
+        width: 86%;
+    }
+    img.auth-img {
+        width: 100px;
+    }
+}
